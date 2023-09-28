@@ -1,0 +1,14 @@
+{
+    "name": "Attachments Only",
+    "description": "Only show attachments and embeds.",
+    "authors": [
+        {
+            "name": "Camlan",
+            "id": "208942531558244352"
+        }
+    ],
+    "main": "src/index.ts",
+    "vendetta": {
+        "icon": "ic_badge_staff"
+    }
+}
